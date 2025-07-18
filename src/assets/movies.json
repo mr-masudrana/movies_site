@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "title": "Pathaan",
+    "language": "Hindi",
+    "year": "2023",
+    "category": "Action",
+    "poster": "/posters/pathaan.jpg",
+    "description": "Spy thriller starring SRK",
+    "videoLink": "https://www.youtube.com/embed/someid"
+  },
+  ...
+]
